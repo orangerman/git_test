@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * uat 第一次提交
+ * uat 新的提交
  */
 @SpringBootApplication
 public class GitTestApplication {
