@@ -11,6 +11,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitTestApplication {
 
+    /**
+     * dev 第一次提交
+     * dev 第二次提交
+     * dev 第三次提交
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         SpringApplication.run(GitTestApplication.class, args);
     }
